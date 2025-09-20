@@ -1,0 +1,7 @@
+{
+  "name": "NuN Central Dashboard beta",
+  "description": "A comprehensive React web application for the NuN Nexus of Unity ecosystem, featuring a secure Root Authority login, real-time monitoring, and orchestration of all AI entities and modules.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
